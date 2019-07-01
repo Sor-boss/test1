@@ -1,2 +1,2 @@
 * linguist-vendored
-jquery.js linguist-vendored=false
+*.swift linguist-vendored=false
